@@ -337,6 +337,7 @@ Inactive projects are sorted by start date then last release date.
 | [hledger]          | [haskell][hledger-src]       | 2007   | 2026         |         199 |   4.7k | [mail list][hledger-mail]&nbsp;250, [matrix][#hledger:matrix.org]&nbsp;240, [IRC][#hledger:libera.chat]&nbsp;70
 | Transity           | [purescript][transity-src]   | 2018   | 2020         |           8 |    650 | [matrix][transity-matrix]
 | [Ledger (Go)] (howeyc) | [go][ledger-go-src]      | 2013   | 2025         |          12 |    470 |
+| [Firela] (billclaw)  | [ts][firela-src]             | 2026   | 2026         |           8 |    267 | [github][firela-discussions]
 | Abandon            | [scala][abandon-src]         | 2013   | 2024         |          11 |    180 | [matrix][abandon-matrix]
 | [zhang]            | [rust/ts][zhang-src]         | 2023   | 2024         |           5 |    180 |
 | [Tackler]          | [rust][tackler-src]          | 2017   | 2026         |           3 |    120 | [matrix][#tackler:matrix.org], [github][tackler-discussions]
@@ -414,6 +415,9 @@ Inactive projects are sorted by start date then last release date.
 
 [Ledger (Go)]: https://howeyc.github.io/ledger/
 [ledger-go-src]: https://github.com/howeyc/ledger
+[Firela]: https://firela.io
+[firela-src]: https://github.com/fire-la/firela-bot
+[firela-discussions]: https://github.com/fire-la/firela-bot/issues
 
 [goledger-mescanne-src]: https://github.com/mescanne/goledger
 
